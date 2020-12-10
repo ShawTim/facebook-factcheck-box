@@ -69,5 +69,22 @@
     background-image: url(./bottom-container.png);
     height: 30px;
   }
+
+  &.small {
+    width: 530px;
+    min-width: 530px;
+
+    .top-container {
+      background-image: url(./top-container-s.png);
+    }
+
+    .middle-container {
+      background-image: url(./middle-container-s.png);
+    }
+
+    .bottom-container {
+      background-image: url(./bottom-container-s.png);
+    }
+  }
 }
 
