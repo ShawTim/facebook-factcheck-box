@@ -1,16 +1,15 @@
-# 項生鬧得好寫得好生成器
+# Facebook Factcheck Dialog生成器
 
-呢個生成器係一項技術研究，
-當有名人每次想用分身但用錯本尊黎讚自己果時都會話俾人改圖。
-但其實改圖實在太煩，
-而家就係用技術示範其實有更簡單既方法。
+![生成器](https://shawtim.github.io/facebook-factcheck-box/static/media/preview.png)
 
-大家可以係下面自由更改內容︰
-點擊頭像可以upload另一個樣；
-點擊用戶名可以直接改名；
-點擊comment內容可以直接改內容；
-點擊like數可以直接改like數。
+大家好多時係網上都會見到流言。我地都好想Facebook幫忙去Factcheck，但無奈地Facebook只對某類言論有興趣。
 
-大家睇下生成出黎既圖似唔似？
+呢個生成器係一項技術研究示範，去展示可以點用技術實用自行編寫Facebook Factcheck Box。
 
-![生成器](https://shawtim.github.io/mr-hong-is-so-right/static/media/preview.png)
+大家可以係自由更改內容︰
+- 點擊title可以改佢title
+- 點擊source可以改佢source
+- 點擊reference可以改佢reference
+最後一鍵生成
+
+我只係作技術示範，大家請為自己既作品負責

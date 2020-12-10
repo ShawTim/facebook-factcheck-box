@@ -1,5 +1,5 @@
 {
-  "name": "mr-hong-is-so-right",
+  "name": "facebook-factcheck-box",
   "version": "0.1.0",
   "main": "webpack.config.js",
   "scripts": {
@@ -38,7 +38,6 @@
     "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "file-saver": "^2.0.2",
     "html2canvas": "^1.0.0-rc.5",
