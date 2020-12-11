@@ -30,6 +30,14 @@ body {
 
 .options {
   margin-top: 80px;
+
+  div {
+    text-align: center;
+  }
+
+  label, input[type=radio] {
+    cursor: pointer;
+  }
 }
 
 .convert-button {
